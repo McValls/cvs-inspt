@@ -176,6 +176,7 @@ class DatosPersonalesComponent extends React.Component {
                                 </Grid>
                                 <Grid item xs={4}>
                                     <TextField
+                                        required
                                         fullWidth
                                         className={this.classes.textField}
                                         id="utnFile"
@@ -188,6 +189,7 @@ class DatosPersonalesComponent extends React.Component {
                             <Grid container direction="row" justify="center" alignItems="center" spacing={2}>
                                 <Grid item xs={4}>
                                     <TextField
+                                        required
                                         fullWidth
                                         className={this.classes.textField}
                                         id="phone"
