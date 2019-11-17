@@ -1,0 +1,18 @@
+.Item {
+  
+    margin: 50px 30px 15px 30px;
+    border-style: groove;
+
+}
+
+.ItemContainer {
+    margin: 10px!important;
+}
+
+.TextField-80 {
+    width: 80%!important;
+}
+
+.TextField-40 {
+    width: 40%!important;
+}
