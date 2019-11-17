@@ -137,6 +137,7 @@ class DatosPersonalesComponent extends React.Component {
                                 </Grid>
                                 <Grid item xs={4}>
                                     <TextField
+                                        required
                                         fullWidth
                                         className={this.classes.textField}
                                         id="identificationNumber"
