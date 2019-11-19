@@ -58,11 +58,11 @@ class Login extends React.Component {
                     Login
                 </h1> 
         
-                <div class="container">
+                <div className="container">
                     <input type="text" id="username"></input>
                 </div>
         
-                <div class="container">
+                <div className="container">
                     <input type="password" id="password"></input>
                 </div>
         

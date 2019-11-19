@@ -45,11 +45,11 @@ class SignUp extends React.Component {
                     Registro de usuario
                 </h1> 
         
-                <div class="container">
+                <div className="container">
                     <input type="text" id="username"></input>
                 </div>
         
-                <div class="container">
+                <div className="container">
                     <input type="password" id="password"></input>
                 </div>
         
